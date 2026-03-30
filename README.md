@@ -13,4 +13,4 @@ Note- data folder and artifact fodler can be ignored as they are used while runn
   * we can call the endpoint by simple python code or by some other mechanism and can get the prediction.
 
 
-    ################### Thank You ##################
+    ################### Thank You ####################
